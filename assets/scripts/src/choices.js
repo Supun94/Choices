@@ -76,6 +76,7 @@ class Choices {
       placeholder: true,
       placeholderValue: null,
       prependValue: null,
+      userPrepValue: null,
       appendValue: null,
       renderSelectedChoices: 'auto',
       loadingText: 'Loading...',
